@@ -15,7 +15,7 @@ All lecture videos are available on YouTube:
 
 Also, the [textbook](https://github.com/michiganrobotics/rob501/tree/main/Textbook/ROB501_Textbook2022_03_21.pdf), [lecture notes](https://github.com/michiganrobotics/rob501/tree/main/Lecture%20Notes) and [handouts](https://github.com/michiganrobotics/rob501/tree/main/Handouts) are available.
 
-## Recitatioins
+## Recitations
 [Recitation questions and answers](https://github.com/michiganrobotics/rob501/tree/main/Recitations) are both available.
 
 ## Course Plan
